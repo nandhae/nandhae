@@ -1,4 +1,4 @@
-![Nandhagopal Ezhilmaran's's GitHub Stats](https://github-readme-stats-nine-sigma.vercel.app/api?username=nandhae&show_icons=true&hide_border=true&theme=radical "Nandhagopal Ezhilmaran's GitHub Stats")
+![Nandhagopal Ezhilmaran's's GitHub Stats](https://github-readme-stats-nine-sigma.vercel.app/api?username=nandhae&show_icons=true&hide_border=true&theme=radical&count_private=true "Nandha's GitHub Stats")
 <!--
 **nandhae/nandhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
