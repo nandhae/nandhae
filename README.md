@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi, This is Nandha...
 
-- 🔭 I’m currently working on Dev & DevOps
-- 💬 Ask me about anything in Tech & we can have a chat on that :)
+- 🔭 Working in Dev & DevOps
+- 💬 DMs are open on socials for talking tech :)
 - 😄 Pronouns: He/Him
 
